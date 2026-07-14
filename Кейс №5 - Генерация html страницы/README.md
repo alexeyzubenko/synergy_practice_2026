@@ -12,7 +12,11 @@
 Основной файл генератора: `x5tech_html_generator.go`
 
 ## Запуск
-
+```
 cd "Кейс 5 - Генерация HTML-страницы/GO html generator"
+```
+```
 go run x5tech_html_generator.go
+```
+
 После выполнения будет создан файл x5_tech_generated.html.
