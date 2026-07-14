@@ -28,7 +28,7 @@
 
 ## Как запустить тесты
 
-Visual Studio 2026:
+Visual Studio 2026 с поддержкой CMake:
 
 1. Открыть **Visual Studio 2026**.
 2. Выбрать **File → Open → Folder...**
