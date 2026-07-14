@@ -1,0 +1,24 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+
+# CMake / сборка
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Исполняемые файлы
+*.exe
+*.out
+*.dll
+
+# Временные файлы
+*.tmp
+*.log
+.DS_Store
